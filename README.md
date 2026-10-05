@@ -90,6 +90,8 @@ Project ini dipublikasikan menggunakan GitHub dengan repository:
 ## Author
 
 **Dika Mahendra**
+<img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/e9ff6b7a-a86d-4341-b56c-754878dabb1f" />
+
 
 GitHub: [DikaMahendraa](https://github.com/DikaMahendraa)
 https://dikamahendraa.github.io/pemweb-tugas1-42530027/ (live)
