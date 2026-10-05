@@ -92,3 +92,4 @@ Project ini dipublikasikan menggunakan GitHub dengan repository:
 **Dika Mahendra**
 
 GitHub: [DikaMahendraa](https://github.com/DikaMahendraa)
+https://dikamahendraa.github.io/pemweb-tugas1-42530027/ (live)
